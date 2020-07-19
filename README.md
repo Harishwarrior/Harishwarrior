@@ -1,4 +1,4 @@
-### Hola, I'm Harish! 👋
+### Hola, I'm Harish! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 [![Twitter Badge](https://img.shields.io/badge/-@Harish95668-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Harish95668)](https://twitter.com/Harish95668)
 [![Linkedin Badge](https://img.shields.io/badge/-Harish.-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harish-907679191/)](https://www.linkedin.com/in/harish-907679191/)
