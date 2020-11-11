@@ -6,10 +6,10 @@
 [![Telegram Badge](https://img.shields.io/badge/-Harishwarrior-grey?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/Harishwarrior)](https://t.me/Harishwarrior)
 
 
-- 🔭 I’m currently working on 100DaysOfFlutter Challenge.
+- 🔭 I’m currently working on my final year project.
 - 🌱 I’m currently learning Flutter & Python.
 - 👯 I’m looking to collaborate on Flutter.
-- 🤔 I’m looking for help with Python Scrappy.
+- 🤔 I’m looking for help with Flutter web.
 - 😄 Pronouns: He/His
 
 
