@@ -12,6 +12,6 @@
 - 🤔 I’m looking for help with Flutter web.
 - 😄 Pronouns: He/His
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harishwarrior&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harishwarrior&theme=vue-dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://github-readme-stats.vercel.app/api?username=Harishwarrior&theme=dark&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api?username=Harishwarrior&theme=vue-dark&show_icons=true">
