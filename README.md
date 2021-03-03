@@ -4,7 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Harish_Anbalagan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harishanbalagan/)](https://www.linkedin.com/in/harishanbalagan/)
 [![Gmail Badge](https://img.shields.io/badge/-warriorharish95668@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:warriorharish95668@gmail.com)](mailto:warriorharish95668@gmail.com)
 [![Telegram Badge](https://img.shields.io/badge/-Harishwarrior-grey?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/Harishwarrior)](https://t.me/Harishwarrior)
-[![Harish's DEV Community Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/harishwarrior)
+
 
 - 🔭 I’m currently working on my final year project.
 - 🌱 I’m currently learning Flutter & Python.
