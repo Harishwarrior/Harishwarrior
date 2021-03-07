@@ -7,7 +7,7 @@
 
 
 - 🔭 I’m currently working on my final year project.
-- 🌱 I’m currently learning Flutter & Python.
+- 🌱 I’m currently learning Kotlin & Python.
 - 👯 I’m looking to collaborate on Flutter.
 - 🤔 I’m looking for help with Flutter web.
 - 😄 Pronouns: He/His
