@@ -9,8 +9,7 @@
 - 🔭 I’m currently working on my final year project.
 - 🌱 I’m currently learning Kotlin & Python.
 - 👯 I’m looking to collaborate on Flutter.
-- 🤔 I’m looking for help with Flutter web.
-- 😄 Pronouns: He/His
+- 🤔 I’m looking for help with Kotlin.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harishwarrior&theme=vue-dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
