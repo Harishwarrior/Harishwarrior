@@ -6,10 +6,10 @@
 [![Telegram Badge](https://img.shields.io/badge/-Harishwarrior-grey?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/Harishwarrior)](https://t.me/Harishwarrior)
 
 
-- 🔭 I’m currently working on my final year project.
-- 🌱 I’m currently learning Kotlin & Python.
+- 🔭 I’m currently working on random projects.
+- 🌱 I’m currently learning Kotlin.
 - 👯 I’m looking to collaborate on Flutter.
-- 🤔 I’m looking for help with Kotlin.
+- 🤔 I’m looking for help with Kotlin and design patterns.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harishwarrior&theme=vue-dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
