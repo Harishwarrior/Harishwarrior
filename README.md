@@ -11,6 +11,12 @@
 - 👯 I’m looking to collaborate on Flutter.
 - 🤔 I’m looking for help with Kotlin and design patterns.
 
+<p>
+   <code>Visitor count</code>
+   <img src="https://profile-counter.glitch.me/harishwarrior/count.svg" />
+   <br>
+  </p>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harishwarrior&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://github-readme-stats.vercel.app/api?username=Harishwarrior&theme=dark&show_icons=true">
