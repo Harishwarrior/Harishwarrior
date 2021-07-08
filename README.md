@@ -1,10 +1,10 @@
 ### Hola, I'm Harish! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+<img align="right" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300px" />
 
 [![Twitter Badge](https://img.shields.io/badge/-@theflutterboi-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/theflutterboi)](https://twitter.com/theflutterboi)
 [![Linkedin Badge](https://img.shields.io/badge/-Harish_Anbalagan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harishanbalagan/)](https://www.linkedin.com/in/harishanbalagan/)
 [![Gmail Badge](https://img.shields.io/badge/-warriorharish95668@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:warriorharish95668@gmail.com)](mailto:warriorharish95668@gmail.com)
 [![Telegram Badge](https://img.shields.io/badge/-Harishwarrior-grey?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/Harishwarrior)](https://t.me/Harishwarrior)
-
 
 - 🔭 I’m currently working on random projects.
 - 🌱 I’m currently learning Kotlin.
