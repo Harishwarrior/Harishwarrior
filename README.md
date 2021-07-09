@@ -1,5 +1,7 @@
 ### Hola, I'm Harish! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+
 <img align="right" src="https://media.giphy.com/media/MGdfeiKtEiEPS/giphy.gif" width="350px" />
+
 
 [![Twitter Badge](https://img.shields.io/badge/-@theflutterboi-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/theflutterboi)](https://twitter.com/theflutterboi)
 [![Linkedin Badge](https://img.shields.io/badge/-Harish_Anbalagan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harishanbalagan/)](https://www.linkedin.com/in/harishanbalagan/)
