@@ -9,9 +9,9 @@
 [![Telegram Badge](https://img.shields.io/badge/-Harishwarrior-grey?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/Harishwarrior)](https://t.me/Harishwarrior)
 
 - 🔭 I’m currently working on random projects / preparing for interview.
-- 🌱 I’m currently learning Kotlin.
-- 👯 I’m looking to collaborate on Flutter.
-- 🤔 I’m looking for help with Kotlin and Architecture.
+- 🌱 I’m currently learning Kotlin and web development basics.
+- 👯 I’m looking to collaborate on Flutter and Android.
+- 🤔 I’m looking for help with DSA and Architecture.
 
 ![](https://komarev.com/ghpvc/?username=harishwarrior)
 
