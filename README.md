@@ -8,7 +8,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-warriorharish95668@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:warriorharish95668@gmail.com)](mailto:warriorharish95668@gmail.com)
 [![Telegram Badge](https://img.shields.io/badge/-Harishwarrior-grey?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/Harishwarrior)](https://t.me/Harishwarrior)
 
-- 🔭 I’m currently working on random projects.
+- 🔭 I’m currently working on random projects / preparing for interview.
 - 🌱 I’m currently learning Kotlin.
 - 👯 I’m looking to collaborate on Flutter.
 - 🤔 I’m looking for help with Kotlin and Architecture.
