@@ -15,6 +15,7 @@
 
 ![](https://komarev.com/ghpvc/?username=harishwarrior)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harishwarrior&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Harishwarrior&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Harishwarrior&theme=nord_dark)
 
-<img src="https://github-readme-stats.vercel.app/api?username=Harishwarrior&show_icons=true&theme=tokyonight">
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Harishwarrior&theme=nord_dark)
