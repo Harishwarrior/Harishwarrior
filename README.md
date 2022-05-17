@@ -14,6 +14,7 @@
 - 🤔 I’m looking for help with DSA and Architecture.
 
 ![](https://komarev.com/ghpvc/?username=harishwarrior)
+[![Harish StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/13389569)](https://stackoverflow.com/users/13389569/harish)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Harishwarrior&theme=nord_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Harishwarrior&theme=nord_dark)
