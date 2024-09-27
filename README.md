@@ -9,9 +9,9 @@
 [![Telegram Badge](https://img.shields.io/badge/-Harishwarrior-grey?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/Harishwarrior)
 
 - 🔭 Contributing to open source projects.
-- 🌱 I’m currently learning DSA and Architecture.
-- 👯 I’m looking to collaborate on Flutter and Android.
-- 🤔 I’m looking for help with DSA and Architecture.
+- 🌱 I’m currently learning SwiftUI.
+- 👯 I’m looking to collaborate on Flutter and SwiftUI.
+- 🤔 I’m looking for help with iOS Architecture.
 
 ![](https://komarev.com/ghpvc/?username=harishwarrior)
 
