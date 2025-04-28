@@ -11,7 +11,7 @@
 - 🔭 Contributing to open source projects.
 - 🌱 I’m currently learning SwiftUI.
 - 👯 I’m looking to collaborate on Flutter and SwiftUI.
-- 🤔 I’m looking for help with iOS Architecture.
+- 🤔 I’m looking for help with Android TV.
 
 ![](https://komarev.com/ghpvc/?username=harishwarrior)
 
