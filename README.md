@@ -8,10 +8,8 @@
 [![Gmail Badge](https://img.shields.io/badge/-harishanbalagandev@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:harishanbalagandev@gmail.com)
 [![Telegram Badge](https://img.shields.io/badge/-Harishwarrior-grey?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/Harishwarrior)
 
-- 🔭 Contributing to open source projects.
-- 🌱 I’m currently learning SwiftUI.
-- 👯 I’m looking to collaborate on Flutter and SwiftUI.
-- 🤔 I’m looking for help with Android TV.
+- 4 years exp Mobile Engineer
+- Flutter, Android, iOS, Apple TV, Android TV, SwiftUI
 
 ![](https://komarev.com/ghpvc/?username=harishwarrior)
 
