@@ -8,7 +8,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-harishanbalagandev@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:harishanbalagandev@gmail.com)
 [![Telegram Badge](https://img.shields.io/badge/-Harishwarrior-grey?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/Harishwarrior)
 
-- 4 years exp / Senior Software Engineer
+- 4.6 years exp / Senior Software Engineer
 - Flutter, Android, iOS, Apple TV, Android TV, SwiftUI
 - MCP, Claude Code (Skills), Agentic AI
 
